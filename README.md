@@ -1,9 +1,8 @@
-h1 {
-	text-align: center
-}
+<h1 align="center">Hello I'm awalking</h1>
 
-# Hello I'm awalking
+<p align="center">
 ![Banner](assets/banner.gif)
+</p>
 
 I love linux and everything that comes with it... chirp
 
