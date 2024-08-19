@@ -1,5 +1,7 @@
-<div style="text-align: center;">
-
+div {
+    text-align: center;
+}
+<div>
 # Hello I'm awalking
 ![Banner](assets/banner.gif)
 
