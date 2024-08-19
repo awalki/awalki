@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # Hello I'm awalking
 ![Banner](assets/banner.gif)
 
@@ -7,3 +9,5 @@ I love linux and everything that comes with it... chirp
 
 ## Social Networks
 -
+
+</div>
