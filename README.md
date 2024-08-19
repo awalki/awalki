@@ -6,4 +6,4 @@
 
 <h2 align="center">I love linux and everything that comes with it... chirp</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,tailwind,js,ts,nodejs,py,discordjs,sapphirejs,docker,linux,react,nextjs,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,tailwind,js,ts,nodejs,py,discordjs,sapphire,docker,linux,react,nextjs,redis)](https://skillicons.dev)
