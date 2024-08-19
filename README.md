@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm awalking</h1>
 
 <p align="center">
-![Banner](assets/banner.gif)
+  <img src="https://github.com/awalki/awalki/blob/main/assets/banner.gif?raw=true" alt="Banner"/>
 </p>
 
 I love linux and everything that comes with it... chirp
