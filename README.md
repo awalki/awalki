@@ -4,11 +4,6 @@
   <img src="https://github.com/awalki/awalki/blob/main/assets/banner.gif?raw=true" alt="Banner"/>
 </p>
 
-I love linux and everything that comes with it... chirp
+<h2 align="center">I love linux and everything that comes with it... chirp</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,tailwind,js,ts,nodejs,py,discordjs,docker,linux,react,nextjs,redis)](https://skillicons.dev)
-
-## Social Networks
--
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,tailwind,js,ts,nodejs,py,discordjs,sapphirejs,docker,linux,react,nextjs,redis)](https://skillicons.dev)
