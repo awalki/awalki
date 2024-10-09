@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm awalking</h1>
+<h1 align="center">Hello I'm awalki</h1>
 
 <p align="center">
   <img src="https://github.com/awalki/awalki/blob/main/assets/banner.gif?raw=true" alt="Banner"/>
